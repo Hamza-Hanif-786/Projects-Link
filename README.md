@@ -1,7 +1,5 @@
 # Projects-Link Hosted
 
-Portfolio : https://hamza-hanif-786.github.io/portfolio/
-
 Hospital Website Project : https://hamza-hanif-786.github.io/website1/
 
 Hosting Website Landing Page : https://hamza-hanif-786.github.io/hosting1
